@@ -5,3 +5,5 @@
 - ### https://github.com/ElizabethEtsegbe/Cybersecurity-Incident-Journal/tree/main
 
 - ### https://github.com/ElizabethEtsegbe/Professional-Statement/tree/main
+
+- ### https://github.com/ElizabethEtsegbe/Vulnerability-Assessment-Report/tree/main
