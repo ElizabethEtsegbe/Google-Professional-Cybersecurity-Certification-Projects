@@ -8,4 +8,4 @@
 
 - ### https://github.com/ElizabethEtsegbe/Vulnerability-Assessment-Report/tree/main
 
-- ### https://github.com/ElizabethEtsegbe/Incident-Responce-Analysis/tree/main
+- ### https://github.com/ElizabethEtsegbe/Incident-Report-Analysis/tree/main
